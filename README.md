@@ -12,8 +12,8 @@ curso de segurança do trabalho
 
 | 📋 **Informações Gerais** | 📍 **Detalhes** |
 | :--- | :--- |
-| **Curso** | Mecatrônica |
-| **Tema** | Robótica em Ambiente de Mecatrônica |
+| **Curso** | segurança do trabalho |
+| **Tema** | prevenir e reservar no dia a dia  |
 | **Local / Laboratório** | Sala 108 |
 
 ### 👥 Integrantes da Equipe
